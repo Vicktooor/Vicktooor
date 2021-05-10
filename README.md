@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vicktooor
+- 👀 I’m interested essentially in video games && music 
+- 🌱 I’m currently learning GUI editor scripts in Unity
